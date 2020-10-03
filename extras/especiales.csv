@@ -1,0 +1,3 @@
+%,VELOCIDAD,0.3,c,Disminuye la velocidad
+$,LARGO,1,z,Aumenta la longitud en 1
+&,LARGO,-1,x,Disminuye la longitud en 1
